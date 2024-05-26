@@ -1,0 +1,9 @@
+#logo img{
+    height: 60px;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.testimonials{
+    background: rgba(4, 0, 0, 0.623);
+}
